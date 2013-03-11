@@ -24,7 +24,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   }
   s.author       = { "Keith Lazuka" => "klazuka@gmail.com" }
   s.source       = { 
-    :git => "https://github.com/jdp-global/Kal.git,
+    :git => "https://github.com/jdp-global/Kal.git",
     :commit => '9f59d698d64a963d7b6a130a1ab5cd3ce81c8109' 
   }
   s.platform     = :ios, '4.0'
